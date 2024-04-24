@@ -1,7 +1,7 @@
 [![MasterHead](https://media.licdn.com/dms/image/D4D16AQG3dTl3JT_hNQ/profile-displaybackgroundimage-shrink_200_800/0/1692452452242?e=2147483647&v=beta&t=ZYN81n3qfzIKkpmeg2yV3tCRxudGoSDqaDsUlkEy4B8)](https://www.linkedin.com/in/rakshitha-uppu-894b13278/)
 <h1 align="center">Hi 👋, I'm Rakshitha Uppu</h1>
 <h3 align="center">Computer Science Student at GITAM Deemed University</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wiener.wiener.me%2F%3Fu%3Danimated-gif-generator-videoscribe-videoscribe-dd-xjXKL0fb&psig=AOvVaw0HSIE7Y7ja1_245vFS28Sv&ust=1714059319220000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCPCKyNyW24UDFQAAAAAdAAAAABAl">
+<img align="right" alt="Coding" width="400" src="https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakshithauppu&label=Profile%20views&color=0e75b6&style=flat" alt="rakshithauppu" /> </p>
