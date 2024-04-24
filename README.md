@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJMnLrlqHbkSQMPHHjj_PaGm6FtgypFk8WrgxHZm8QIFg-gaXXE4KLKrcWbz8Vnmtix0I&usqp=CAU)](https://www.linkedin.com/in/rakshitha-uppu-894b13278/)
+[![MasterHead](https://media.licdn.com/dms/image/D4D16AQG3dTl3JT_hNQ/profile-displaybackgroundimage-shrink_200_800/0/1692452452242?e=2147483647&v=beta&t=ZYN81n3qfzIKkpmeg2yV3tCRxudGoSDqaDsUlkEy4B8)](https://www.linkedin.com/in/rakshitha-uppu-894b13278/)
 <h1 align="center">Hi 👋, I'm Rakshitha Uppu</h1>
 <h3 align="center">Computer Science Student at GITAM Deemed University</h3>
 
